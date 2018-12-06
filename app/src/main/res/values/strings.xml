@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HomeworkTwo</string>
+    <string name="take_photo">Сделать фото</string>
+    <string name="inputName">Введите имя</string>
+    <string name="message">Обязательно введите имя</string>
+    <string name="description">Вы не сделали фото</string>
+</resources>
